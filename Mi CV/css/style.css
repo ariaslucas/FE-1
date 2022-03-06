@@ -1,0 +1,66 @@
+.titulos {
+    color: #005677;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 35px;
+    background-color: #C4C4C4;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+header img {
+    display: block;
+    margin: 0px auto;
+
+}
+
+p span {
+    font-weight: bold;
+}
+
+p.sangria {
+    text-indent: 80px;
+    line-height: 0px;
+}
+
+footer {
+    text-align: center;
+    background: #005677;
+    color: white;
+
+}
+
+footer img {
+    margin-left: 10px;
+
+}
+
+img.vinculo {
+    max-width: 20px;
+
+}
+
+#foto {
+    max-width: 400px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+header {
+    background-image: url(/img/banner.jpg);
+    background-size: cover;
+    backgroud
+}
+
+
+img.banner {
+    max-width: 40px;
+    max-height: 40px;
+
+}
