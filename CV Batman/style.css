@@ -1,0 +1,46 @@
+.titulos {
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 35px;
+    background-color: #C4C4C4;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+header img {
+    display: block;
+    margin: 0px auto;
+
+}
+
+
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+p span {
+    font-weight: bold;
+}
+
+p.sangria {
+    text-indent: 80px;
+    line-height: 0px;
+}
+
+footer {
+    text-align: center;
+    background: #005677;
+
+}
+
+footer img {
+    margin-left: 10px;
+
+}
